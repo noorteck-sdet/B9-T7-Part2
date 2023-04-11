@@ -6,4 +6,8 @@ public class Demo1 {
 		
 		System.out.println("GitHub.....");
 	}
+	public void add() {
+		
+		System.out.println(1+2);
+	}
 }
