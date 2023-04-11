@@ -12,4 +12,6 @@ public class kadic {
 		System.out.println("Senada Kadic");
 
 	}
+	
+	//Checking the clonning...
 }
