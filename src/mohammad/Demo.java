@@ -17,5 +17,8 @@ public class Demo {
 		
 	}
 	
+	public void multiple() {
+		System.out.println(3*3);
+	}
 	
 }
