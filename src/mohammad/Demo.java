@@ -23,4 +23,11 @@ public class Demo {
 	
 	// new project
 	
+	public void newproject() {
+		
+		System.out.println("new project");
+		
+		
+	}
+	
 }
