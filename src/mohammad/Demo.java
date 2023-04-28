@@ -26,6 +26,11 @@ public class Demo {
 	public void multiple() {
 		System.out.println(3*3);
 	}
+	
+	
+	public void subtracft(){
+	System.out.println("Remote");
+	}
 	// 123
 	
 	// new comments 2
